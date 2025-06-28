@@ -59,6 +59,11 @@ além disso, deve ter um método chamado atacar que deve atender os seguintes re
   guerreiro atacou usando espada
 
 
+**O Repositório está organizado da seguinte forma:**
+
+**Readme.md:** Descrição geral do desafio de projeto.
+
+**classeHeroiCalc.js:** Implementação em Javascript da classe heroi.
 
 
 
